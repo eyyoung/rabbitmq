@@ -20,7 +20,7 @@
   "author": "Gareth Jones <gareth.nomiddlename@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/log4js-node/rabbitmq.git"
+    "url": "http://git.sdp.nd/young/log4js_rabbitmq.git"
   },
   "bugs": {
     "url": "http://github.com/log4js-node/rabbitmq/issues"
